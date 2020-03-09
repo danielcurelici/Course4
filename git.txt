@@ -1,0 +1,10 @@
+pwd
+ll  = ls-l
+git init --master(repo)
+git add xxxx.py
+git add.
+git status
+
+git commit -m "blabla"
+git remote add origin https://..
+git push -u origin master
